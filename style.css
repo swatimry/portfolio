@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+p{
+    color: #274465;
+}
+.top{
+    background-color:#84CEEB;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.intropara{
+   text-align: center;
+   font-family: "Catamaran";
+   
+}
+.pics{
+
+    height: 70px;width: 70px;
+}
+#propic{
+    height: 130px;
+    width: 130px;
+   position: relative;
+   left: 45%;
+   margin-top: 25px;
+}
+.middle{
+    padding-top:20px ;
+    padding-bottom: 20px;
+    background-color:#5AB9EA;
+  
+    font-family: "Catamaran";
+}
+.programming{
+    box-sizing: border-box;
+    width: 500px;
+   
+    margin: auto;
+    margin-top:20px ;
+    margin-bottom: 50px;
+}
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    margin: 0 auto 0 auto;
+    border-width: 6px;
+    border-color:#507298;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+  
+ 
+  
+   
+   
+     }
+.publicspeaking{
+   box-sizing: border-box;
+   width: 500px;
+    
+    margin: auto;
+    margin-top:20px ;
+    margin-bottom: 50px;
+    text-align: left;
+}
+.music{
+  box-sizing: border-box;
+  width: 500px;
+    
+    margin: auto;
+    margin-top:20px ;
+    margin-bottom: 70px;
+}
+
+
+
+#myintro{
+    font-family: "Yeon-Sung";
+  text-align: center;
+}
+.edumid{
+    background-color: #5680E9;
+ 
+    padding-top: 30px;
+    padding-bottom:30px;
+    font-family: "Catamaran";
+    
+
+}
+#edutitle{
+    
+    width:max-content;
+  align-items: center;
+  margin-left: auto ;
+  margin-right: auto;
+  margin-bottom: 40px;
+  
+}
+.education{
+    
+   width: 48%;
+ 
+ margin: 20px auto 30px auto;
+}
+#pariksha{
+ margin-left: 105px;
+}
+.edumidtit{
+    display: inline;
+    float: left;
+    margin-right: 10px;
+    
+}
+#myskills{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+.progimg{
+   float: left;
+   height: 55px;width: 55px;
+   padding: auto auto;
+   margin-right: 15px;
+ 
+}
+.speechimg{
+    float: right;  height: 60px;width: 60px;
+    
+}
+.musicimg{
+    float: left;  height: 50px;
+    
+    width: 50px;
+   margin-right: 20px;
+   margin-top: 8px;
+}
+.contact{
+    background-color: #7DE5ED;
+   padding: 50px;
+   align-items: center;
+   font-family: "Catamaran";
+   
+}
+.contactitems{
+    width: max-content;
+  
+    margin: 15px auto 15px auto;
+}
+ .foter{
+    background-color:#0D4C92;
+   padding-top: 20px;
+   padding-bottom: 20px;
+ }  
+ .links{
+    font-family: "Catamaran";
+    width: max-content;
+    margin: 0 auto 0 auto;
+    padding:20px;
+ }
+ #contacttext{
+    color: #84CEEB;
+ }
+ .contactbtn{
+    text-decoration: none;
+   
+    background-color:#0D4C92;
+   font-size: 18px;
+   color: #84CEEB;
+   margin-top: 30px;
+    padding: 5px;
+    border-radius: 5px;
+ }
+ .social{
+    color: #84CEEB;
+    
+    margin: 30px 30px 30px 30px;
+ }
+
